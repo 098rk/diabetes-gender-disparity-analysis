@@ -7,7 +7,7 @@ This repository contains the full reproducible analysis code and synthetic datas
 **"Gender Disparities in Random Blood Glucose Levels Among Pakistani Adults with Type 2 Diabetes: A Cross‑Sectional Analysis"**  
 *(Authors: Ruby Khan, Salma Rashid, Sumbal Khan, Bakht Pari; under review)*
 
-All code is written in Python and uses standard data science libraries. The synthetic dataset (`diabetic_csv_20260223_6645e9.txt`) was generated to match the key statistics reported in the manuscript, allowing full reproduction of the figures and statistical results.
+All code is written in Python and uses standard data science libraries. The synthetic dataset was generated to match the key statistics reported in the manuscript, allowing full reproduction of the figures and statistical results.
 
 ---
 
